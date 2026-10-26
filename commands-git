@@ -1,0 +1,8 @@
+Cloner un repository : git clone <url>
+1. git add .
+Cloner un repository : git clone <url>
+1. git add .
+Cloner un repository : git clone <url>
+1. git add .
+2. git commit -m "message explicite"
+3. git push origin main
